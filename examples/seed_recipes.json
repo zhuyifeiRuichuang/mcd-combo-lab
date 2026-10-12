@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "note": "配方只存 productCode / quantity / roundList / modification，不存菜名与价格——菜单随时段与门店变化，价格一律由官方实时核价给出。",
+  "recipes": [
+    {
+      "id": "seed-cheese-stack",
+      "name": "双层吉士汉堡 ×3 叠搭",
+      "story": "官方 MCP 不提供加料能力：汉堡的「吉士」只是二值开关（要不要），没有「加几份」。想要网络流传的「六层」，官方可核价的真实做法就是按件叠加——点 3 个双层吉士汉堡自己叠。",
+      "items": [
+        { "productCode": "1120", "quantity": 3 }
+      ]
+    },
+    {
+      "id": "seed-combo-upgrade",
+      "name": "不素之霸三件套 · 升大薯条",
+      "story": "套餐子项替换是官方真正会改价的定制动作之一。把默认中薯条换成大薯条，官方 diffPrice 标 +¥2.5，核价结果也确实从 ¥37.50 变到 ¥40.00。",
+      "items": [
+        {
+          "productCode": "9900005411",
+          "quantity": 1,
+          "roundList": [
+            { "round": "2", "comboItemList": [ { "code": "4820", "quantity": 1 } ] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seed-caffeine-combo",
+      "name": "吉士汉堡 + 加浓缩冰美式",
+      "story": "加价特制是另一类官方会真实改价的定制：麦咖啡冰美式的「加」浓缩项 price=500（¥5），核价从 ¥19.00 变到 ¥24.00。这是本店在售餐品里少数真实可用的加价定制。",
+      "items": [
+        { "productCode": "1120", "quantity": 1 },
+        {
+          "productCode": "507411",
+          "quantity": 1,
+          "modification": {
+            "values": [ { "code": "8008", "key": "0-1", "quantity": 1 } ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5072 @@
+{
+  "generated_at": "2026-10-12T13:39:01",
+  "source": "mcd-mcp live",
+  "note": "全部字段来自麦当劳官方 MCP 真实返回，未做任何伪造或插值。",
+  "store": {
+    "storeCode": "1450713",
+    "storeName": "麦当劳上海黄浦华旭国际大厦餐厅",
+    "address": "南京东路街道西藏中路336号",
+    "distance": 144,
+    "businessStatus": true,
+    "businessStartTime": "00:00",
+    "businessEndTime": "23:59",
+    "longitude": 0.0,
+    "latitude": 0.0,
+    "reservation": true,
+    "reservationTimeOptions": [
+      {
+        "date": "2026-10-12",
+        "today": true,
+        "reservationOptionText": "午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至23:59)"
+      },
+      {
+        "date": "2026-10-13",
+        "today": false,
+        "reservationOptionText": "宵夜(00:00至04:45,22:14至23:59)，早餐(05:14至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)"
+      }
+    ]
+  },
+  "menu": {
+    "categories": [
+      {
+        "name": "人气热卖",
+        "meals": [
+          {
+            "code": "9900016076",
+            "tags": [
+              "心形薯饼同款比心"
+            ]
+          },
+          {
+            "code": "9900016075",
+            "tags": [
+              "浓郁奶香拉丝芝士"
+            ]
+          },
+          {
+            "code": "9900016073",
+            "tags": [
+              "韩式辣椒黄油风味"
+            ]
+          },
+          {
+            "code": "9900016077",
+            "tags": [
+              "韩式芝士风味酱上新"
+            ]
+          },
+          {
+            "code": "521954"
+          },
+          {
+            "code": "9900016311"
+          },
+          {
+            "code": "9900004064",
+            "tags": [
+              "爆款"
+            ]
+          },
+          {
+            "code": "521950",
+            "tags": [
+              "蓝莓"
+            ]
+          },
+          {
+            "code": "9900014092",
+            "tags": [
+              "奶昔回归"
+            ]
+          },
+          {
+            "code": "515946"
+          }
+        ]
+      },
+      {
+        "name": "精选单人餐",
+        "meals": [
+          {
+            "code": "9900015856",
+            "tags": [
+              "经典精选",
+              "汪苏泷限量周边"
+            ]
+          },
+          {
+            "code": "9900004064",
+            "tags": [
+              "经典精选",
+              "爆款"
+            ]
+          },
+          {
+            "code": "9900004236",
+            "tags": [
+              "麦金卡"
+            ]
+          },
+          {
+            "code": "9900010110",
+            "tags": [
+              "麦金卡"
+            ]
+          },
+          {
+            "code": "9900006957",
+            "tags": [
+              "麦金卡"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "鸡肉汉堡\n/卷",
+        "meals": [
+          {
+            "code": "9900016075",
+            "tags": [
+              "上新",
+              "浓郁奶香拉丝芝士"
+            ]
+          },
+          {
+            "code": "9900016073",
+            "tags": [
+              "上新",
+              "韩式辣椒黄油风味"
+            ]
+          },
+          {
+            "code": "521953",
+            "tags": [
+              "上新",
+              "浓郁奶香拉丝芝士"
+            ]
+          },
+          {
+            "code": "521952",
+            "tags": [
+              "上新",
+              "韩式辣椒黄油风味"
+            ]
+          },
+          {
+            "code": "9900016310",
+            "tags": [
+              "麦金卡"
+            ]
+          },
+          {
+            "code": "9900016309",
+            "tags": [
+              "麦金卡"
+            ]
+          },
+          {
+            "code": "9900000891",
+            "tags": [
+              "麦金卡"
+            ]
+          },
+          {
+            "code": "9900000890",
+            "tags": [
+              "麦金卡"
+            ]
+          },
+          {
+            "code": "9900005462",
+            "tags": [
+              "套餐",
+              "新升级",
+              "更多汁"
+            ]
+          },
+          {
+            "code": "9900005456",
+            "tags": [
+              "套餐",
+              "立省10.5元起"
+            ]
+          },
+          {
+            "code": "9900005453",
+            "tags": [
+              "套餐",
+              "立省10.5元起"
+            ]
+          },
+          {
+            "code": "1440",
+            "tags": [
+              "单品",
+              "人气经典",
+              "外酥里嫩"
+            ]
+          },
+          {
+            "code": "1406",
+            "tags": [
+              "单品",
+              "板烧滋滋",
+              "多汁惹味"
+            ]
+          },
+          {
+            "code": "1450",
+            "tags": [
+              "单品"
+            ]
+          },
+          {
+            "code": "9900008746",
+            "tags": [
+              "单品",
+              "人气"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "小食拼盘\n/多人餐",
+        "meals": [
+          {
+            "code": "9900016076",
+            "tags": [
+              "上新",
+              "心形薯饼同款比心"
+            ]
+          },
+          {
+            "code": "9900015726",
+            "tags": [
+              "上新",
+              "韩式风味"
+            ]
+          },
+          {
+            "code": "9900006332",
+            "tags": [
+              "小食拼盘",
+              "超值"
+            ]
+          },
+          {
+            "code": "9900015730",
+            "tags": [
+              "小食拼盘",
+              "随心拼"
+            ]
+          },
+          {
+            "code": "9900004066",
+            "tags": [
+              "小食拼盘",
+              "万种组合"
+            ]
+          },
+          {
+            "code": "9900011056",
+            "tags": [
+              "麦金卡"
+            ]
+          },
+          {
+            "code": "9900005321",
+            "tags": [
+              "麦金卡"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "蘸酱炸鸡",
+        "meals": [
+          {
+            "code": "9900016078",
+            "tags": [
+              "蘸酱炸鸡",
+              "韩式芝士风味酱上新"
+            ]
+          },
+          {
+            "code": "9900016096",
+            "tags": [
+              "蘸酱炸鸡",
+              "韩式芝士风味酱上新"
+            ]
+          },
+          {
+            "code": "9900015729",
+            "tags": [
+              "蘸酱炸鸡",
+              "蘸酱炸鸡新吃法"
+            ]
+          },
+          {
+            "code": "521966",
+            "tags": [
+              "蘸酱",
+              "韩式风味",
+              "浓郁芝香"
+            ]
+          },
+          {
+            "code": "521797",
+            "tags": [
+              "蘸酱",
+              "使用动物奶油"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "随心配\n1+1",
+        "meals": [
+          {
+            "code": "9900013304",
+            "tags": [
+              "超值百种组合随心配"
+            ]
+          },
+          {
+            "code": "9900015568",
+            "tags": [
+              "超值百种组合随心配"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "大堡口福\n单人餐",
+        "meals": [
+          {
+            "code": "9900015602",
+            "tags": [
+              "大口吃肉好快乐"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "巨无霸\n牛鱼肉堡",
+        "meals": [
+          {
+            "code": "9900000888",
+            "tags": [
+              "麦金卡"
+            ]
+          },
+          {
+            "code": "9900000886",
+            "tags": [
+              "麦金卡"
+            ]
+          },
+          {
+            "code": "9900000885",
+            "tags": [
+              "麦金卡"
+            ]
+          },
+          {
+            "code": "9900000893",
+            "tags": [
+              "麦金卡"
+            ]
+          },
+          {
+            "code": "9900005411",
+            "tags": [
+              "套餐",
+              "100%纯牛肉"
+            ]
+          },
+          {
+            "code": "9900005466",
+            "tags": [
+              "套餐",
+              "100%纯牛肉"
+            ]
+          },
+          {
+            "code": "9900005468",
+            "tags": [
+              "套餐",
+              "100%纯牛肉"
+            ]
+          },
+          {
+            "code": "9900005413",
+            "tags": [
+              "套餐",
+              "麦香鱼系列"
+            ]
+          },
+          {
+            "code": "9900005460",
+            "tags": [
+              "套餐",
+              "麦香鱼系列"
+            ]
+          },
+          {
+            "code": "9900005464",
+            "tags": [
+              "套餐",
+              "100%纯牛肉"
+            ]
+          },
+          {
+            "code": "9900005449",
+            "tags": [
+              "套餐",
+              "100%纯牛肉"
+            ]
+          },
+          {
+            "code": "1100",
+            "tags": [
+              "单品",
+              "100%纯牛肉"
+            ]
+          },
+          {
+            "code": "9900003586",
+            "tags": [
+              "单品",
+              "麦香鱼系列"
+            ]
+          },
+          {
+            "code": "1600",
+            "tags": [
+              "单品",
+              "麦香鱼系列"
+            ]
+          },
+          {
+            "code": "4648",
+            "tags": [
+              "单品",
+              "100%纯牛肉"
+            ]
+          },
+          {
+            "code": "1106",
+            "tags": [
+              "单品",
+              "100%纯牛肉"
+            ]
+          },
+          {
+            "code": "1120",
+            "tags": [
+              "单品",
+              "100%纯牛肉"
+            ]
+          },
+          {
+            "code": "521316",
+            "tags": [
+              "单品",
+              "100%纯牛肉",
+              "人气"
+            ]
+          },
+          {
+            "code": "9900008747",
+            "tags": [
+              "单品",
+              "100%纯牛肉"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "安格斯MAX\n厚牛堡",
+        "meals": [
+          {
+            "code": "9900000881",
+            "tags": [
+              "麦金卡"
+            ]
+          },
+          {
+            "code": "9900000882",
+            "tags": [
+              "麦金卡"
+            ]
+          },
+          {
+            "code": "9900005428",
+            "tags": [
+              "套餐",
+              "100%安格斯牛肉"
+            ]
+          },
+          {
+            "code": "9900005430",
+            "tags": [
+              "套餐",
+              "100%安格斯牛肉"
+            ]
+          },
+          {
+            "code": "511781",
+            "tags": [
+              "单品",
+              "100%安格斯牛肉"
+            ]
+          },
+          {
+            "code": "511782",
+            "tags": [
+              "单品",
+              "100%安格斯牛肉"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "炸鸡",
+        "meals": [
+          {
+            "code": "521966",
+            "tags": [
+              "蘸酱",
+              "韩式风味",
+              "浓郁芝香"
+            ]
+          },
+          {
+            "code": "521797",
+            "tags": [
+              "蘸酱",
+              "使用动物奶油"
+            ]
+          },
+          {
+            "code": "9900005451",
+            "tags": [
+              "套餐",
+              "立省10.5元起"
+            ]
+          },
+          {
+            "code": "9900004835",
+            "tags": [
+              "套餐",
+              "立省10.5元起"
+            ]
+          },
+          {
+            "code": "1700",
+            "tags": [
+              "单品",
+              "黄金酥脆",
+              "鲜嫩多汁"
+            ]
+          },
+          {
+            "code": "520445",
+            "tags": [
+              "单品",
+              "人气"
+            ]
+          },
+          {
+            "code": "1401",
+            "tags": [
+              "单品",
+              "人气"
+            ]
+          },
+          {
+            "code": "521156",
+            "tags": [
+              "单品"
+            ]
+          },
+          {
+            "code": "9900005432",
+            "tags": [
+              "单品"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "小食甜品\n/其他",
+        "meals": [
+          {
+            "code": "521954",
+            "tags": [
+              "上新"
+            ]
+          },
+          {
+            "code": "521986",
+            "tags": [
+              "上新",
+              "趁热拉丝",
+              "奶香醇厚"
+            ]
+          },
+          {
+            "code": "9900016082",
+            "tags": [
+              "上新",
+              "口口酥脆",
+              "含一份蘸酱"
+            ]
+          },
+          {
+            "code": "521950",
+            "tags": [
+              "上新",
+              "蓝莓"
+            ]
+          },
+          {
+            "code": "521951",
+            "tags": [
+              "上新",
+              "灰焰"
+            ]
+          },
+          {
+            "code": "521901",
+            "tags": [
+              "上新",
+              "口口酥脆",
+              "薯香十足"
+            ]
+          },
+          {
+            "code": "521917",
+            "tags": [
+              "上新",
+              "快乐旋开吃"
+            ]
+          },
+          {
+            "code": "4810",
+            "tags": [
+              "小食"
+            ]
+          },
+          {
+            "code": "4437",
+            "tags": [
+              "小食"
+            ]
+          },
+          {
+            "code": "6102",
+            "tags": [
+              "小食"
+            ]
+          },
+          {
+            "code": "9900008754",
+            "tags": [
+              "冰淇淋"
+            ]
+          },
+          {
+            "code": "9900008745",
+            "tags": [
+              "冰淇淋"
+            ]
+          },
+          {
+            "code": "515837",
+            "tags": [
+              "冰淇淋"
+            ]
+          },
+          {
+            "code": "9900008752",
+            "tags": [
+              "派",
+              "第二份优惠"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "开心乐园",
+        "meals": [
+          {
+            "code": "9900016057",
+            "tags": [
+              "开心乐园餐",
+              "童年童款"
+            ]
+          },
+          {
+            "code": "9900016058",
+            "tags": [
+              "开心乐园餐",
+              "童年童款"
+            ]
+          },
+          {
+            "code": "9900016056",
+            "tags": [
+              "开心乐园餐",
+              "童年童款"
+            ]
+          },
+          {
+            "code": "9900016055",
+            "tags": [
+              "开心亲子餐",
+              "童年童款"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "麦咖啡™",
+        "meals": [
+          {
+            "code": "515946",
+            "tags": [
+              "限定特惠"
+            ]
+          },
+          {
+            "code": "515955",
+            "tags": [
+              "限定特惠"
+            ]
+          },
+          {
+            "code": "507411",
+            "tags": [
+              "限定特惠"
+            ]
+          },
+          {
+            "code": "507409",
+            "tags": [
+              "限定特惠",
+              "更奶更浓"
+            ]
+          },
+          {
+            "code": "510479",
+            "tags": [
+              "麦咖啡™咖啡"
+            ]
+          },
+          {
+            "code": "507387",
+            "tags": [
+              "麦咖啡™咖啡"
+            ]
+          },
+          {
+            "code": "514851",
+            "tags": [
+              "麦咖啡™咖啡"
+            ]
+          },
+          {
+            "code": "520689",
+            "tags": [
+              "麦咖啡™咖啡",
+              "鲜萃咖啡"
+            ]
+          },
+          {
+            "code": "507389",
+            "tags": [
+              "麦咖啡™咖啡"
+            ]
+          },
+          {
+            "code": "507394",
+            "tags": [
+              "其他"
+            ]
+          },
+          {
+            "code": "510489",
+            "tags": [
+              "其他"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "500\n大卡套餐",
+        "meals": [
+          {
+            "code": "9900011128",
+            "tags": [
+              "粉丝之选"
+            ]
+          },
+          {
+            "code": "9900011121",
+            "tags": [
+              "粉丝之选"
+            ]
+          },
+          {
+            "code": "9900011126"
+          },
+          {
+            "code": "9900011123"
+          },
+          {
+            "code": "9900009245"
+          },
+          {
+            "code": "9900009242"
+          }
+        ]
+      },
+      {
+        "name": "饮品",
+        "meals": [
+          {
+            "code": "9900014092",
+            "tags": [
+              "上新",
+              "奶昔回归"
+            ]
+          },
+          {
+            "code": "521817",
+            "tags": [
+              "上新",
+              "清爽上新"
+            ]
+          },
+          {
+            "code": "9900008751",
+            "tags": [
+              "冷饮"
+            ]
+          },
+          {
+            "code": "3010",
+            "tags": [
+              "冷饮"
+            ]
+          },
+          {
+            "code": "515520",
+            "tags": [
+              "冷饮"
+            ]
+          },
+          {
+            "code": "2430",
+            "tags": [
+              "冷饮"
+            ]
+          },
+          {
+            "code": "515280",
+            "tags": [
+              "冷饮"
+            ]
+          },
+          {
+            "code": "3755",
+            "tags": [
+              "冷饮"
+            ]
+          },
+          {
+            "code": "6362",
+            "tags": [
+              "冷饮"
+            ]
+          },
+          {
+            "code": "3757",
+            "tags": [
+              "冷饮"
+            ]
+          },
+          {
+            "code": "520689",
+            "tags": [
+              "热饮",
+              "鲜萃咖啡"
+            ]
+          },
+          {
+            "code": "3505",
+            "tags": [
+              "热饮"
+            ]
+          }
+        ]
+      }
+    ],
+    "meals": {
+      "9900005456": {
+        "name": "麦辣鸡腿汉堡三件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005456_320.png",
+        "currentPrice": "33.5",
+        "originalPrice": "46",
+        "canWithOrder": false
+      },
+      "511781": {
+        "name": "培根安格斯厚牛堡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_511781_320.png",
+        "currentPrice": "34.5",
+        "originalPrice": "34.5",
+        "canWithOrder": false
+      },
+      "511782": {
+        "name": "芝士安格斯厚牛堡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_511782_320.png",
+        "currentPrice": "31.5",
+        "originalPrice": "31.5",
+        "canWithOrder": false
+      },
+      "2430": {
+        "name": "【美汁源】“黄金橙橙”",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20240904/product/MS_2430_320.png",
+        "currentPrice": "13",
+        "originalPrice": "13",
+        "canWithOrder": false
+      },
+      "521986": {
+        "name": "马苏里拉拉丝芝士条",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G521986_320.png",
+        "currentPrice": "11",
+        "originalPrice": "15",
+        "discountType": "促销优惠",
+        "canWithOrder": false
+      },
+      "9900011056": {
+        "name": "全明星双人分享餐八件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20261008/product/MS_9900011056_320.gif",
+        "currentPrice": "49.9",
+        "originalPrice": "114.5",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "521901": {
+        "name": "月下相思扭扭薯",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521901_320.png",
+        "currentPrice": "15",
+        "originalPrice": "15",
+        "canWithOrder": false
+      },
+      "9900016078": {
+        "name": "蘸酱麦麦脆汁鸡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016078_320.png",
+        "currentPrice": "11.9",
+        "originalPrice": "18",
+        "canWithOrder": false
+      },
+      "9900016076": {
+        "name": "“我就喜欢”鸡薯双全盒",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016076_320.png",
+        "currentPrice": "15.9",
+        "originalPrice": "28.5",
+        "canWithOrder": false
+      },
+      "9900016077": {
+        "name": "蘸酱炸鸡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016077_320.gif",
+        "currentPrice": "11.9",
+        "originalPrice": "17.5",
+        "canWithOrder": false
+      },
+      "9900016075": {
+        "name": "龙焰芝士棒鸡腿堡三件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016075_320.png",
+        "currentPrice": "29.9",
+        "originalPrice": "50.5",
+        "canWithOrder": false
+      },
+      "9900016073": {
+        "name": "龙焰鸡腿堡三件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016073_320.png",
+        "currentPrice": "26.9",
+        "originalPrice": "47.5",
+        "canWithOrder": false
+      },
+      "9900005460": {
+        "name": "麦香鱼套餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_G504968_320.png",
+        "currentPrice": "33.5",
+        "originalPrice": "46",
+        "canWithOrder": false
+      },
+      "9900005462": {
+        "name": "板烧鸡腿堡三件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005462_320.png",
+        "currentPrice": "34.5",
+        "originalPrice": "47",
+        "canWithOrder": false
+      },
+      "3755": {
+        "name": "纯牛奶(盒装)",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20240731/product/MS_3755_320.png",
+        "currentPrice": "10.5",
+        "originalPrice": "10.5",
+        "canWithOrder": false
+      },
+      "9900005464": {
+        "name": "双层吉士汉堡套餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_G504966_320.png",
+        "currentPrice": "34",
+        "originalPrice": "46.5",
+        "canWithOrder": false
+      },
+      "9900004236": {
+        "name": "人气超值四件套随心选",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900004236_320.gif",
+        "currentPrice": "28",
+        "originalPrice": "57",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "3757": {
+        "name": "纯悦",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20240904/product/MS_3757_320.png",
+        "currentPrice": "7.5",
+        "originalPrice": "7.5",
+        "canWithOrder": false
+      },
+      "9900005466": {
+        "name": "巨无霸三件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005466_320.png",
+        "currentPrice": "36.5",
+        "originalPrice": "49",
+        "canWithOrder": false
+      },
+      "6362": {
+        "name": "100% 苹果汁(盒装)",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250430/product/MS_6362_320_1745552987716.png",
+        "currentPrice": "11.5",
+        "originalPrice": "11.5",
+        "canWithOrder": false
+      },
+      "521917": {
+        "name": "泷愿成真麦旋风——大米风味",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G521917_320.gif",
+        "currentPrice": "16.5",
+        "originalPrice": "16.5",
+        "canWithOrder": false
+      },
+      "9900005449": {
+        "name": "吉士汉堡包套餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_G504971_320.png",
+        "currentPrice": "26",
+        "originalPrice": "38.5",
+        "canWithOrder": false
+      },
+      "3010": {
+        "name": "雪碧",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G3010_320.png",
+        "currentPrice": "9.5",
+        "originalPrice": "9.5",
+        "canWithOrder": false
+      },
+      "9900010110": {
+        "name": "鱼牛汉堡四件套随心选",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900010110_320.gif",
+        "currentPrice": "32",
+        "originalPrice": "58.5",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "1106": {
+        "name": "培根蔬萃双层牛堡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_1106_320.png",
+        "currentPrice": "24.5",
+        "originalPrice": "24.5",
+        "canWithOrder": false
+      },
+      "1100": {
+        "name": "巨无霸",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_1100_320.png",
+        "currentPrice": "25.5",
+        "originalPrice": "25.5",
+        "canWithOrder": false
+      },
+      "9900005451": {
+        "name": "麦辣鸡翅4块套餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_G504972_320.png",
+        "currentPrice": "36.5",
+        "originalPrice": "49",
+        "canWithOrder": false
+      },
+      "9900005453": {
+        "name": "麦香鸡套餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_G504967_320.png",
+        "currentPrice": "28",
+        "originalPrice": "40.5",
+        "canWithOrder": false
+      },
+      "507394": {
+        "name": "牛奶",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G5073941_320.png",
+        "currentPrice": "19",
+        "originalPrice": "19",
+        "canWithOrder": false
+      },
+      "9900008746": {
+        "name": "鸡肉堡单品精选",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260624/product/MS_9900008746_320.gif",
+        "currentPrice": "23.5",
+        "originalPrice": "23.5",
+        "canWithOrder": false
+      },
+      "9900008745": {
+        "name": "新地",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900008745_320.gif",
+        "currentPrice": "12",
+        "originalPrice": "12",
+        "canWithOrder": false
+      },
+      "9900008747": {
+        "name": "牛肉堡单品精选",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_9900008747_320.gif",
+        "currentPrice": "14",
+        "originalPrice": "14",
+        "canWithOrder": false
+      },
+      "515520": {
+        "name": "怡泉+C",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G515520_320.png",
+        "currentPrice": "11.5",
+        "originalPrice": "11.5",
+        "canWithOrder": false
+      },
+      "1120": {
+        "name": "双层吉士汉堡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_1120_320.png",
+        "currentPrice": "23",
+        "originalPrice": "23",
+        "canWithOrder": false
+      },
+      "521966": {
+        "name": "韩式烟熏芝士风味酱",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521966_320.png",
+        "currentPrice": "3",
+        "originalPrice": "3",
+        "canWithOrder": false
+      },
+      "9900016096": {
+        "name": "蘸酱韩式甜辣酱鸡块",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016096_320.png",
+        "currentPrice": "11.9",
+        "originalPrice": "18",
+        "canWithOrder": false
+      },
+      "9900008751": {
+        "name": "可乐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900008751_320.gif",
+        "currentPrice": "9.5",
+        "originalPrice": "9.5",
+        "canWithOrder": false
+      },
+      "9900006332": {
+        "name": "薄皮V翅双拼十翅",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260610/product/MS_9900006332_320.png",
+        "currentPrice": "49.9",
+        "originalPrice": "77",
+        "canWithOrder": false
+      },
+      "9900008752": {
+        "name": "派",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G9900008752_320.gif",
+        "currentPrice": "8.5",
+        "originalPrice": "8.5",
+        "canWithOrder": false
+      },
+      "9900008754": {
+        "name": "经典麦旋风",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900008754_320.gif",
+        "currentPrice": "15.5",
+        "originalPrice": "15.5",
+        "canWithOrder": false
+      },
+      "9900005468": {
+        "name": "培根蔬萃双层牛堡三件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005468_320.png",
+        "currentPrice": "35.5",
+        "originalPrice": "48",
+        "canWithOrder": false
+      },
+      "9900006957": {
+        "name": "安格斯厚牛堡四件套随心选",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900006957_320.png",
+        "currentPrice": "37",
+        "originalPrice": "66",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "1401": {
+        "name": "麦乐鸡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260529/product/MS_G1401_320.png",
+        "currentPrice": "14",
+        "originalPrice": "14",
+        "canWithOrder": false
+      },
+      "9900016082": {
+        "name": "心形薯饼5块",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016082_320.png",
+        "currentPrice": "14.5",
+        "originalPrice": "14.5",
+        "canWithOrder": false
+      },
+      "1406": {
+        "name": "板烧鸡腿堡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20241008/product/MS_1406_320.png",
+        "currentPrice": "23.5",
+        "originalPrice": "23.5",
+        "canWithOrder": false
+      },
+      "9900005413": {
+        "name": "双层深海鳕鱼堡三件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005413_320.png",
+        "currentPrice": "35",
+        "originalPrice": "47.5",
+        "canWithOrder": false
+      },
+      "514851": {
+        "name": "咖啡阿芙佳朵",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250324/product/MS_514851_320.png",
+        "currentPrice": "15",
+        "originalPrice": "15",
+        "canWithOrder": false
+      },
+      "9900016309": {
+        "name": "龙焰鸡腿堡四件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016309_320.png",
+        "currentPrice": "29",
+        "originalPrice": "57",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "9900015856": {
+        "name": "“泷”运当头四件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20261008/product/MS_9900015856_320.gif",
+        "currentPrice": "91.7",
+        "originalPrice": "91.7",
+        "canWithOrder": false
+      },
+      "9900015730": {
+        "name": "BFF四宫格小食盘",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900015730_320.gif",
+        "currentPrice": "39.8",
+        "originalPrice": "54.5",
+        "canWithOrder": false
+      },
+      "9900016311": {
+        "name": "龙焰美味四件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016311_320.gif",
+        "currentPrice": "29",
+        "originalPrice": "57",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "9900016310": {
+        "name": "龙焰芝士棒鸡腿堡四件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016310_320.png",
+        "currentPrice": "32",
+        "originalPrice": "57",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "521156": {
+        "name": "那么大鸡排（椒盐风味）",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260101/product/MS_521156_320.png",
+        "currentPrice": "14",
+        "originalPrice": "14",
+        "canWithOrder": false
+      },
+      "510489": {
+        "name": "燕麦奶",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G510489_320.png",
+        "currentPrice": "21",
+        "originalPrice": "21",
+        "canWithOrder": false
+      },
+      "9900004835": {
+        "name": "麦乐鸡套餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_G504969_320.png",
+        "currentPrice": "25",
+        "originalPrice": "37.5",
+        "canWithOrder": false
+      },
+      "9900014092": {
+        "name": "麦当劳奶昔",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900014092_320.gif",
+        "currentPrice": "15",
+        "originalPrice": "22",
+        "canWithOrder": false
+      },
+      "4648": {
+        "name": "不素之霸双层牛堡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_4648_320.png",
+        "currentPrice": "26.5",
+        "originalPrice": "26.5",
+        "canWithOrder": false
+      },
+      "9900003586": {
+        "name": "双层深海鳕鱼堡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900003586_320.png",
+        "currentPrice": "24",
+        "originalPrice": "24",
+        "canWithOrder": false
+      },
+      "9900000890": {
+        "name": "板烧鸡腿堡四件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000890_320.png",
+        "currentPrice": "28",
+        "originalPrice": "57",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "9900015729": {
+        "name": "蘸酱BFF四宫格小食盘",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900015729_320.gif",
+        "currentPrice": "42.8",
+        "originalPrice": "57.5",
+        "canWithOrder": false
+      },
+      "521950": {
+        "name": "蓝莓爆爆珠麦旋风",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G521950_320.gif",
+        "currentPrice": "16.5",
+        "originalPrice": "16.5",
+        "canWithOrder": false
+      },
+      "9900013304": {
+        "name": "人气经典随心配",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900013304_320.png",
+        "currentPrice": "14.9",
+        "originalPrice": "14.9",
+        "canWithOrder": false
+      },
+      "9900015726": {
+        "name": "韩式甜辣酱鸡块8块",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260815/product/MS_9900015726_320.png",
+        "currentPrice": "19.9",
+        "originalPrice": "30",
+        "canWithOrder": false
+      },
+      "521797": {
+        "name": "北美招牌牧场酱",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_521797_320.png",
+        "currentPrice": "3",
+        "originalPrice": "3",
+        "canWithOrder": false
+      },
+      "521951": {
+        "name": "灰焰圆筒",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G521951_320.gif",
+        "currentPrice": "5",
+        "originalPrice": "5",
+        "canWithOrder": false
+      },
+      "9900011126": {
+        "name": "酥脆无双套餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260701/product/MS_9900011126_320.png",
+        "currentPrice": "20",
+        "originalPrice": "20",
+        "canWithOrder": false
+      },
+      "521952": {
+        "name": "龙焰鸡腿堡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521952_320.png",
+        "currentPrice": "24",
+        "originalPrice": "24",
+        "canWithOrder": false
+      },
+      "9900015602": {
+        "name": "大堡口福三件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900015602_320.png",
+        "currentPrice": "22.9",
+        "originalPrice": "47",
+        "canWithOrder": false
+      },
+      "521953": {
+        "name": "龙焰芝士棒鸡腿堡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521953_320.png",
+        "currentPrice": "27",
+        "originalPrice": "27",
+        "canWithOrder": false
+      },
+      "9900011128": {
+        "name": "“堡”你欢乐套餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900011128_320.png",
+        "currentPrice": "28",
+        "originalPrice": "42.5",
+        "canWithOrder": false
+      },
+      "521954": {
+        "name": "麦当劳联名复古棒球帽",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521954_320.png",
+        "currentPrice": "34.9",
+        "originalPrice": "39.9",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "521316": {
+        "name": "高达吉士双牛堡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_521316_320.png",
+        "currentPrice": "22.5",
+        "originalPrice": "22.5",
+        "canWithOrder": false
+      },
+      "9900011121": {
+        "name": "“苹”水相“鱼”套餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900011121_320.png",
+        "currentPrice": "36",
+        "originalPrice": "54",
+        "canWithOrder": false
+      },
+      "9900015568": {
+        "name": "精选超值随心配",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900015568_320.png",
+        "currentPrice": "13.9",
+        "originalPrice": "13.9",
+        "canWithOrder": false
+      },
+      "9900011123": {
+        "name": "“辣”么快乐套餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900011123_320.png",
+        "currentPrice": "24",
+        "originalPrice": "36.5",
+        "canWithOrder": false
+      },
+      "1700": {
+        "name": "麦辣鸡翅",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260325/product/MS_G1700_320.png",
+        "currentPrice": "15",
+        "originalPrice": "15",
+        "canWithOrder": false
+      },
+      "9900000888": {
+        "name": "巨无霸四件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000888_320.png",
+        "currentPrice": "32",
+        "originalPrice": "58.5",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "9900000886": {
+        "name": "不素之霸双层牛堡四件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000886_320.png",
+        "currentPrice": "32",
+        "originalPrice": "58.5",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "9900000885": {
+        "name": "培根蔬萃双层牛堡四件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000885_320.png",
+        "currentPrice": "32",
+        "originalPrice": "58.5",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "4810": {
+        "name": "薯条",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png",
+        "currentPrice": "13.5",
+        "originalPrice": "13.5",
+        "canWithOrder": false
+      },
+      "510479": {
+        "name": "燕麦奶铁",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260422/product/MS_G510481_320.png",
+        "currentPrice": "9.9",
+        "originalPrice": "23",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "9900000882": {
+        "name": "芝士安格斯厚牛堡四件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000882_320.png",
+        "currentPrice": "37",
+        "originalPrice": "66",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "9900005411": {
+        "name": "不素之霸双层牛堡三件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005411_320.png",
+        "currentPrice": "37.5",
+        "originalPrice": "50",
+        "canWithOrder": false
+      },
+      "9900000881": {
+        "name": "培根安格斯厚牛堡四件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000881_320.png",
+        "currentPrice": "37",
+        "originalPrice": "66",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "9900004066": {
+        "name": "堡堡随心拼（7件任选）",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260624/product/MS_9900004066_320.gif",
+        "currentPrice": "72.5",
+        "originalPrice": "101.5",
+        "canWithOrder": false
+      },
+      "9900004064": {
+        "name": "精选单人餐三件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900004064_320.gif",
+        "currentPrice": "34.5",
+        "originalPrice": "46",
+        "canWithOrder": false
+      },
+      "1440": {
+        "name": "麦辣鸡腿汉堡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260325/product/MS_1440_320.png",
+        "currentPrice": "22.5",
+        "originalPrice": "22.5",
+        "canWithOrder": false
+      },
+      "515280": {
+        "name": "阳光柠檬红茶",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G515280_320.png",
+        "currentPrice": "9.5",
+        "originalPrice": "9.5",
+        "canWithOrder": false
+      },
+      "9900016058": {
+        "name": "鱼排堡开心乐园餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016058_320.png",
+        "currentPrice": "24",
+        "originalPrice": "24",
+        "canWithOrder": false
+      },
+      "9900016056": {
+        "name": "麦乐鸡开心乐园餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016056_320.png",
+        "currentPrice": "25",
+        "originalPrice": "25",
+        "canWithOrder": false
+      },
+      "9900016057": {
+        "name": "汉堡开心乐园餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016057_320.png",
+        "currentPrice": "23.5",
+        "originalPrice": "23.5",
+        "canWithOrder": false
+      },
+      "9900016055": {
+        "name": "开心亲子双人餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016055_320.png",
+        "currentPrice": "59.5",
+        "originalPrice": "59.5",
+        "canWithOrder": false
+      },
+      "9900009242": {
+        "name": "“苹板”支撑Pro套餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900009242_320.png",
+        "currentPrice": "39.5",
+        "originalPrice": "53.5",
+        "canWithOrder": false
+      },
+      "507389": {
+        "name": "浓缩咖啡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250324/product/MS_507389_320.png",
+        "currentPrice": "15",
+        "originalPrice": "15",
+        "canWithOrder": false
+      },
+      "9900009245": {
+        "name": "牛气满满套餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900009245_320.png",
+        "currentPrice": "35",
+        "originalPrice": "47.5",
+        "canWithOrder": false
+      },
+      "507387": {
+        "name": "卡布奇诺",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250324/product/MS_G507388_320.png",
+        "currentPrice": "21",
+        "originalPrice": "21",
+        "canWithOrder": false
+      },
+      "9900000893": {
+        "name": "双层深海鳕鱼堡四件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000893_320.png",
+        "currentPrice": "32",
+        "originalPrice": "58.5",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "515955": {
+        "name": "浓浓燕麦黑巧（冰/热）",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20261008/product/MS_G515954_320.gif",
+        "currentPrice": "15.9",
+        "originalPrice": "23",
+        "discountType": "促销优惠",
+        "canWithOrder": false
+      },
+      "9900005321": {
+        "name": "BFF四宫格小食盘双人餐",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260304/product/MS_9900005321_320.png",
+        "currentPrice": "62.9",
+        "originalPrice": "122.5",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "9900000891": {
+        "name": "麦辣鸡腿堡四件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000891_320.png",
+        "currentPrice": "28",
+        "originalPrice": "57",
+        "discountType": "随单购麦金卡优惠",
+        "withOrder": {
+          "membershipCode": "106",
+          "specId": "880"
+        },
+        "canWithOrder": true
+      },
+      "515837": {
+        "name": "圆筒冰淇淋",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_515837_320.png",
+        "currentPrice": "5",
+        "originalPrice": "5",
+        "canWithOrder": false
+      },
+      "521817": {
+        "name": "【美汁源】“多汁柠柠”",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260807/product/MS_521817_320.png",
+        "currentPrice": "12",
+        "originalPrice": "12",
+        "canWithOrder": false
+      },
+      "6102": {
+        "name": "苹果片",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_6102_320.png",
+        "currentPrice": "7",
+        "originalPrice": "7",
+        "canWithOrder": false
+      },
+      "9900005428": {
+        "name": "培根安格斯厚牛堡三件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005428_320.png",
+        "currentPrice": "45.5",
+        "originalPrice": "58",
+        "canWithOrder": false
+      },
+      "1450": {
+        "name": "麦香鸡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_1450_320.png",
+        "currentPrice": "17",
+        "originalPrice": "17",
+        "canWithOrder": false
+      },
+      "520445": {
+        "name": "薄皮焦香V翅",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20241202/product/MS_520445_320.png",
+        "currentPrice": "16",
+        "originalPrice": "16",
+        "canWithOrder": false
+      },
+      "520689": {
+        "name": "鲜萃咖啡",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250324/product/MS_G520688_320.gif",
+        "currentPrice": "9.5",
+        "originalPrice": "9.5",
+        "canWithOrder": false
+      },
+      "507409": {
+        "name": "麦咖啡™奶铁",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260422/product/MS_G507372_320.gif",
+        "currentPrice": "13.9",
+        "originalPrice": "21",
+        "discountType": "促销优惠",
+        "canWithOrder": false
+      },
+      "3505": {
+        "name": "锡兰红茶",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_3505_320.png",
+        "currentPrice": "11.5",
+        "originalPrice": "11.5",
+        "canWithOrder": false
+      },
+      "1600": {
+        "name": "麦香鱼",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260101/product/MS_1600_320.png",
+        "currentPrice": "22.5",
+        "originalPrice": "22.5",
+        "canWithOrder": false
+      },
+      "507411": {
+        "name": "麦咖啡™美式",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260422/product/MS_G507374_320.gif",
+        "currentPrice": "11.9",
+        "originalPrice": "19",
+        "discountType": "促销优惠",
+        "canWithOrder": false
+      },
+      "9900005430": {
+        "name": "芝士安格斯厚牛堡三件套",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005430_320.png",
+        "currentPrice": "42.5",
+        "originalPrice": "55",
+        "canWithOrder": false
+      },
+      "4437": {
+        "name": "玉米杯",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G4437_320.png",
+        "currentPrice": "13",
+        "originalPrice": "13",
+        "canWithOrder": false
+      },
+      "515946": {
+        "name": "浓浓黑巧（冰/热）",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/20261008/product/MS_G515945_320.gif",
+        "currentPrice": "13.9",
+        "originalPrice": "21",
+        "discountType": "促销优惠",
+        "canWithOrder": false
+      },
+      "9900005432": {
+        "name": "麦麦脆汁鸡1块",
+        "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900005432_320.png",
+        "currentPrice": "15",
+        "originalPrice": "15",
+        "canWithOrder": false
+      }
+    }
+  },
+  "nutrition": [
+    {
+      "productName": "猪柳麦满分",
+      "energyKj": 1288.0,
+      "kcal": 308.0,
+      "protein": 16.0,
+      "fat": 16.0,
+      "carbohydrate": 24.0,
+      "sodium": 781.0,
+      "calcium": 213.0
+    },
+    {
+      "productName": "猪柳蛋麦满分",
+      "energyKj": 1618.0,
+      "kcal": 387.0,
+      "protein": 23.0,
+      "fat": 21.0,
+      "carbohydrate": 25.0,
+      "sodium": 846.0,
+      "calcium": 243.0
+    },
+    {
+      "productName": "烟肉蛋麦满分",
+      "energyKj": 1089.0,
+      "kcal": 260.0,
+      "protein": 16.0,
+      "fat": 10.0,
+      "carbohydrate": 24.0,
+      "sodium": 483.0,
+      "calcium": 238.0
+    },
+    {
+      "productName": "火腿扒麦满分",
+      "energyKj": 1092.0,
+      "kcal": 261.0,
+      "protein": 14.0,
+      "fat": 12.0,
+      "carbohydrate": 24.0,
+      "sodium": 608.0,
+      "calcium": 131.0
+    },
+    {
+      "productName": "中薯条",
+      "energyKj": 1210.0,
+      "kcal": 289.0,
+      "protein": 4.0,
+      "fat": 12.0,
+      "carbohydrate": 38.0,
+      "sodium": 165.0,
+      "calcium": 18.0
+    },
+    {
+      "productName": "大薯条",
+      "energyKj": 1587.0,
+      "kcal": 379.0,
+      "protein": 6.0,
+      "fat": 16.0,
+      "carbohydrate": 50.0,
+      "sodium": 216.0,
+      "calcium": 23.0
+    },
+    {
+      "productName": "小薯条",
+      "energyKj": 877.0,
+      "kcal": 210.0,
+      "protein": 3.0,
+      "fat": 9.0,
+      "carbohydrate": 28.0,
+      "sodium": 120.0,
+      "calcium": 13.0
+    },
+    {
+      "productName": "迷你薯条",
+      "energyKj": 444.0,
+      "kcal": 106.0,
+      "protein": 2.0,
+      "fat": 4.0,
+      "carbohydrate": 14.0,
+      "sodium": 61.0,
+      "calcium": 6.0
+    },
+    {
+      "productName": "圆筒冰淇淋",
+      "energyKj": 391.0,
+      "kcal": 93.0,
+      "protein": 2.0,
+      "fat": 3.0,
+      "carbohydrate": 14.0,
+      "sodium": 36.0,
+      "calcium": 77.0
+    },
+    {
+      "productName": "麦乐鸡5块",
+      "energyKj": 890.0,
+      "kcal": 213.0,
+      "protein": 12.0,
+      "fat": 12.0,
+      "carbohydrate": 13.0,
+      "sodium": 422.0,
+      "calcium": 9.0
+    },
+    {
+      "productName": "大杯玉米杯",
+      "energyKj": 365.0,
+      "kcal": 87.0,
+      "protein": 4.0,
+      "fat": 1.0,
+      "carbohydrate": 12.0,
+      "sodium": 2.0,
+      "calcium": 10.0
+    },
+    {
+      "productName": "小杯玉米杯",
+      "energyKj": 223.0,
+      "kcal": 53.0,
+      "protein": 2.0,
+      "fat": 1.0,
+      "carbohydrate": 7.0,
+      "sodium": 1.0,
+      "calcium": 6.0
+    },
+    {
+      "productName": "麦辣鸡翅-2块",
+      "energyKj": 937.0,
+      "kcal": 224.0,
+      "protein": 13.0,
+      "fat": 15.0,
+      "carbohydrate": 9.0,
+      "sodium": 537.0,
+      "calcium": 13.0
+    },
+    {
+      "productName": "朱古力新地",
+      "energyKj": 1178.0,
+      "kcal": 282.0,
+      "protein": 5.0,
+      "fat": 9.0,
+      "carbohydrate": 44.0,
+      "sodium": 126.0,
+      "calcium": 182.0
+    },
+    {
+      "productName": "草莓新地",
+      "energyKj": 1027.0,
+      "kcal": 245.0,
+      "protein": 4.0,
+      "fat": 6.0,
+      "carbohydrate": 43.0,
+      "sodium": 84.0,
+      "calcium": 158.0
+    },
+    {
+      "productName": "奥利奥麦旋风",
+      "energyKj": 1115.0,
+      "kcal": 266.0,
+      "protein": 5.0,
+      "fat": 9.0,
+      "carbohydrate": 40.0,
+      "sodium": 116.0,
+      "calcium": 185.0
+    },
+    {
+      "productName": "草莓麦旋风",
+      "energyKj": 1234.0,
+      "kcal": 295.0,
+      "protein": 6.0,
+      "fat": 9.0,
+      "carbohydrate": 47.0,
+      "sodium": 122.0,
+      "calcium": 186.0
+    },
+    {
+      "productName": "香芋派",
+      "energyKj": 971.0,
+      "kcal": 232.0,
+      "protein": 2.0,
+      "fat": 12.0,
+      "carbohydrate": 28.0,
+      "sodium": 159.0,
+      "calcium": 7.0
+    },
+    {
+      "productName": "菠萝派",
+      "energyKj": 925.0,
+      "kcal": 221.0,
+      "protein": 2.0,
+      "fat": 11.0,
+      "carbohydrate": 27.0,
+      "sodium": 147.0,
+      "calcium": 5.0
+    },
+    {
+      "productName": "大脆鸡扒麦满分",
+      "energyKj": 1510.0,
+      "kcal": 361.0,
+      "protein": 16.0,
+      "fat": 17.0,
+      "carbohydrate": 35.0,
+      "sodium": 804.0,
+      "calcium": 130.0
+    },
+    {
+      "productName": "原味板烧鸡腿麦满分",
+      "energyKj": 1029.0,
+      "kcal": 246.0,
+      "protein": 15.0,
+      "fat": 9.0,
+      "carbohydrate": 25.0,
+      "sodium": 611.0,
+      "calcium": 133.0
+    },
+    {
+      "productName": "双层原味板烧鸡腿麦满分",
+      "energyKj": 1486.0,
+      "kcal": 355.0,
+      "protein": 23.0,
+      "fat": 17.0,
+      "carbohydrate": 27.0,
+      "sodium": 984.0,
+      "calcium": 138.0
+    },
+    {
+      "productName": "吉士汉堡包",
+      "energyKj": 1231.0,
+      "kcal": 294.0,
+      "protein": 16.0,
+      "fat": 12.0,
+      "carbohydrate": 30.0,
+      "sodium": 673.0,
+      "calcium": 144.0
+    },
+    {
+      "productName": "双层吉士汉堡",
+      "energyKj": 1796.0,
+      "kcal": 429.0,
+      "protein": 27.0,
+      "fat": 22.0,
+      "carbohydrate": 31.0,
+      "sodium": 1017.0,
+      "calcium": 232.0
+    },
+    {
+      "productName": "麦香鸡",
+      "energyKj": 1546.0,
+      "kcal": 369.0,
+      "protein": 15.0,
+      "fat": 17.0,
+      "carbohydrate": 39.0,
+      "sodium": 731.0,
+      "calcium": 73.0
+    },
+    {
+      "productName": "麦香鱼",
+      "energyKj": 1359.0,
+      "kcal": 325.0,
+      "protein": 16.0,
+      "fat": 13.0,
+      "carbohydrate": 35.0,
+      "sodium": 556.0,
+      "calcium": 99.0
+    },
+    {
+      "productName": "麦辣鸡腿汉堡",
+      "energyKj": 2029.0,
+      "kcal": 485.0,
+      "protein": 24.0,
+      "fat": 24.0,
+      "carbohydrate": 42.0,
+      "sodium": 1208.0,
+      "calcium": 154.0
+    },
+    {
+      "productName": "板烧鸡腿堡",
+      "energyKj": 1638.0,
+      "kcal": 391.0,
+      "protein": 23.0,
+      "fat": 17.0,
+      "carbohydrate": 35.0,
+      "sodium": 1041.0,
+      "calcium": 93.0
+    },
+    {
+      "productName": "巨无霸",
+      "energyKj": 2146.0,
+      "kcal": 513.0,
+      "protein": 27.0,
+      "fat": 26.0,
+      "carbohydrate": 42.0,
+      "sodium": 961.0,
+      "calcium": 171.0
+    },
+    {
+      "productName": "培根蔬萃双层牛堡",
+      "energyKj": 1850.0,
+      "kcal": 442.0,
+      "protein": 24.0,
+      "fat": 23.0,
+      "carbohydrate": 34.0,
+      "sodium": 728.0,
+      "calcium": 73.0
+    },
+    {
+      "productName": "可乐中杯",
+      "energyKj": 616.0,
+      "kcal": 147.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 36.0,
+      "sodium": 0.0,
+      "calcium": 10.0
+    },
+    {
+      "productName": "可乐大杯",
+      "energyKj": 936.0,
+      "kcal": 224.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 55.0,
+      "sodium": 0.0,
+      "calcium": 15.0
+    },
+    {
+      "productName": "可乐小杯",
+      "energyKj": 446.0,
+      "kcal": 107.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 26.0,
+      "sodium": 0.0,
+      "calcium": 7.0
+    },
+    {
+      "productName": "雪碧中杯",
+      "energyKj": 440.0,
+      "kcal": 105.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 26.0,
+      "sodium": 29.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "雪碧大杯",
+      "energyKj": 669.0,
+      "kcal": 160.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 39.0,
+      "sodium": 45.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "雪碧小杯",
+      "energyKj": 319.0,
+      "kcal": 76.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 19.0,
+      "sodium": 21.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "无糖可口可乐中杯",
+      "energyKj": 0.0,
+      "kcal": 0.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 1.0,
+      "sodium": 35.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "无糖可口可乐大杯",
+      "energyKj": 0.0,
+      "kcal": 0.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 1.0,
+      "sodium": 53.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "无糖可口可乐小杯",
+      "energyKj": 0.0,
+      "kcal": 0.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 0.0,
+      "sodium": 25.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "大杯鲜萃咖啡",
+      "energyKj": 54.0,
+      "kcal": 13.0,
+      "protein": 1.0,
+      "fat": 0.0,
+      "carbohydrate": 0.0,
+      "sodium": 3.0,
+      "calcium": 8.0
+    },
+    {
+      "productName": "小杯鲜萃咖啡",
+      "energyKj": 63.0,
+      "kcal": 15.0,
+      "protein": 1.0,
+      "fat": 0.0,
+      "carbohydrate": 3.0,
+      "sodium": 2.0,
+      "calcium": 6.0
+    },
+    {
+      "productName": "锡兰红茶",
+      "energyKj": 8.0,
+      "kcal": 2.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 0.0,
+      "sodium": 0.0,
+      "calcium": 5.0
+    },
+    {
+      "productName": "热朱古力",
+      "energyKj": 525.0,
+      "kcal": 125.0,
+      "protein": 2.0,
+      "fat": 2.0,
+      "carbohydrate": 22.0,
+      "sodium": 107.0,
+      "calcium": 36.0
+    },
+    {
+      "productName": "纯牛奶（盒装）",
+      "energyKj": 541.0,
+      "kcal": 129.0,
+      "protein": 7.0,
+      "fat": 7.0,
+      "carbohydrate": 10.0,
+      "sodium": 73.0,
+      "calcium": 231.0
+    },
+    {
+      "productName": "麦旋酷阳光橙",
+      "energyKj": 955.0,
+      "kcal": 228.0,
+      "protein": 1.0,
+      "fat": 2.0,
+      "carbohydrate": 50.0,
+      "sodium": 77.0,
+      "calcium": 52.0
+    },
+    {
+      "productName": "浓缩咖啡",
+      "energyKj": 54.0,
+      "kcal": 13.0,
+      "protein": 1.0,
+      "fat": 0.0,
+      "carbohydrate": 2.0,
+      "sodium": 0.0,
+      "calcium": 7.0
+    },
+    {
+      "productName": "那么大鸡排",
+      "energyKj": 1612.0,
+      "kcal": 385.0,
+      "protein": 24.0,
+      "fat": 21.0,
+      "carbohydrate": 24.0,
+      "sodium": 996.0,
+      "calcium": 13.0
+    },
+    {
+      "productName": "阳光柠檬红茶中杯",
+      "energyKj": 488.0,
+      "kcal": 117.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 29.0,
+      "sodium": 17.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "阳光柠檬红茶大杯",
+      "energyKj": 743.0,
+      "kcal": 178.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 43.0,
+      "sodium": 25.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "阳光柠檬红茶小杯",
+      "energyKj": 354.0,
+      "kcal": 85.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 21.0,
+      "sodium": 12.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "脆薯饼",
+      "energyKj": 612.0,
+      "kcal": 146.0,
+      "protein": 1.0,
+      "fat": 9.0,
+      "carbohydrate": 14.0,
+      "sodium": 311.0,
+      "calcium": 7.0
+    },
+    {
+      "productName": "脆香油条",
+      "energyKj": 844.0,
+      "kcal": 202.0,
+      "protein": 5.0,
+      "fat": 12.0,
+      "carbohydrate": 19.0,
+      "sodium": 230.0,
+      "calcium": 18.0
+    },
+    {
+      "productName": "100%苹果汁",
+      "energyKj": 368.0,
+      "kcal": 88.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 21.0,
+      "sodium": 0.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "汉堡包",
+      "energyKj": 1039.0,
+      "kcal": 248.0,
+      "protein": 13.0,
+      "fat": 8.0,
+      "carbohydrate": 29.0,
+      "sodium": 492.0,
+      "calcium": 61.0
+    },
+    {
+      "productName": "麦乐鸡4块",
+      "energyKj": 712.0,
+      "kcal": 170.0,
+      "protein": 10.0,
+      "fat": 10.0,
+      "carbohydrate": 11.0,
+      "sodium": 337.0,
+      "calcium": 7.0
+    },
+    {
+      "productName": "小杯玉米杯",
+      "energyKj": 223.0,
+      "kcal": 53.0,
+      "protein": 2.0,
+      "fat": 1.0,
+      "carbohydrate": 7.0,
+      "sodium": 1.0,
+      "calcium": 6.0
+    },
+    {
+      "productName": "纯牛奶（盒装）",
+      "energyKj": 541.0,
+      "kcal": 129.0,
+      "protein": 7.0,
+      "fat": 7.0,
+      "carbohydrate": 10.0,
+      "sodium": 73.0,
+      "calcium": 231.0
+    },
+    {
+      "productName": "纯悦",
+      "energyKj": 0.0,
+      "kcal": 0.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 0.0,
+      "sodium": 0.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "苹果片",
+      "energyKj": 133.0,
+      "kcal": 32.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 7.0,
+      "sodium": 0.0,
+      "calcium": 18.0
+    },
+    {
+      "productName": "不素之霸双层牛堡",
+      "energyKj": 2062.0,
+      "kcal": 493.0,
+      "protein": 28.0,
+      "fat": 27.0,
+      "carbohydrate": 34.0,
+      "sodium": 1012.0,
+      "calcium": 75.0
+    },
+    {
+      "productName": "双层深海鳕鱼堡",
+      "energyKj": 2029.0,
+      "kcal": 485.0,
+      "protein": 28.0,
+      "fat": 21.0,
+      "carbohydrate": 46.0,
+      "sodium": 917.0,
+      "calcium": 147.0
+    },
+    {
+      "productName": "儿童鱼排堡",
+      "energyKj": 1126.0,
+      "kcal": 269.0,
+      "protein": 15.0,
+      "fat": 6.0,
+      "carbohydrate": 36.0,
+      "sodium": 442.0,
+      "calcium": 58.0
+    },
+    {
+      "productName": "培根安格斯厚牛堡",
+      "energyKj": 2959.0,
+      "kcal": 707.0,
+      "protein": 34.0,
+      "fat": 44.0,
+      "carbohydrate": 43.0,
+      "sodium": 1037.0,
+      "calcium": 161.0
+    },
+    {
+      "productName": "芝士安格斯厚牛堡",
+      "energyKj": 2914.0,
+      "kcal": 696.0,
+      "protein": 32.0,
+      "fat": 44.0,
+      "carbohydrate": 43.0,
+      "sodium": 897.0,
+      "calcium": 150.0
+    },
+    {
+      "productName": "yeyeyeye奶冻款",
+      "energyKj": 932.0,
+      "kcal": 223.0,
+      "protein": 1.0,
+      "fat": 4.0,
+      "carbohydrate": 43.0,
+      "sodium": 37.0,
+      "calcium": 64.0
+    },
+    {
+      "productName": "皮蛋鸡肉粥",
+      "energyKj": 558.0,
+      "kcal": 133.0,
+      "protein": 6.0,
+      "fat": 3.0,
+      "carbohydrate": 20.0,
+      "sodium": 611.0,
+      "calcium": 20.0
+    },
+    {
+      "productName": "雪菜脆笋鸡肉粥",
+      "energyKj": 504.0,
+      "kcal": 120.0,
+      "protein": 4.0,
+      "fat": 2.0,
+      "carbohydrate": 22.0,
+      "sodium": 552.0,
+      "calcium": 14.0
+    },
+    {
+      "productName": "猪柳炒双蛋堡",
+      "energyKj": 1827.0,
+      "kcal": 437.0,
+      "protein": 25.0,
+      "fat": 24.0,
+      "carbohydrate": 29.0,
+      "sodium": 705.0,
+      "calcium": 116.0
+    },
+    {
+      "productName": "yeyeyeye爆珠款",
+      "energyKj": 889.0,
+      "kcal": 212.0,
+      "protein": 1.0,
+      "fat": 3.0,
+      "carbohydrate": 42.0,
+      "sodium": 122.0,
+      "calcium": 124.0
+    },
+    {
+      "productName": "柠檬拉明顿",
+      "energyKj": 506.0,
+      "kcal": 121.0,
+      "protein": 2.0,
+      "fat": 7.0,
+      "carbohydrate": 12.0,
+      "sodium": 35.0,
+      "calcium": 17.0
+    },
+    {
+      "productName": "芝士双层安格斯厚牛堡",
+      "energyKj": 4195.0,
+      "kcal": 1003.0,
+      "protein": 58.0,
+      "fat": 65.0,
+      "carbohydrate": 46.0,
+      "sodium": 1373.0,
+      "calcium": 251.0
+    },
+    {
+      "productName": "培根双层安格斯厚牛堡",
+      "energyKj": 4128.0,
+      "kcal": 987.0,
+      "protein": 55.0,
+      "fat": 64.0,
+      "carbohydrate": 46.0,
+      "sodium": 1191.0,
+      "calcium": 226.0
+    },
+    {
+      "productName": "火腿扒早安营养卷",
+      "energyKj": 1857.0,
+      "kcal": 444.0,
+      "protein": 16.0,
+      "fat": 24.0,
+      "carbohydrate": 39.0,
+      "sodium": 1065.0,
+      "calcium": 108.0
+    },
+    {
+      "productName": "麦麦脆汁鸡-琵琶腿",
+      "energyKj": 1372.0,
+      "kcal": 328.0,
+      "protein": 21.0,
+      "fat": 20.0,
+      "carbohydrate": 16.0,
+      "sodium": 905.0,
+      "calcium": 24.0
+    },
+    {
+      "productName": "德式图林根香肠",
+      "energyKj": 366.0,
+      "kcal": 87.0,
+      "protein": 5.0,
+      "fat": 6.0,
+      "carbohydrate": 2.0,
+      "sodium": 293.0,
+      "calcium": 5.0
+    },
+    {
+      "productName": "图林根香肠早安营养卷",
+      "energyKj": 1779.0,
+      "kcal": 425.0,
+      "protein": 14.0,
+      "fat": 23.0,
+      "carbohydrate": 38.0,
+      "sodium": 977.0,
+      "calcium": 68.0
+    },
+    {
+      "productName": "麦麦脆汁鸡-带骨里脊",
+      "energyKj": 1389.0,
+      "kcal": 332.0,
+      "protein": 22.0,
+      "fat": 18.0,
+      "carbohydrate": 16.0,
+      "sodium": 812.0,
+      "calcium": 25.0
+    },
+    {
+      "productName": "【美汁源】“黄金橙橙”",
+      "energyKj": 691.0,
+      "kcal": 165.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 41.0,
+      "sodium": 53.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "优品豆浆大杯",
+      "energyKj": 844.0,
+      "kcal": 202.0,
+      "protein": 8.0,
+      "fat": 4.0,
+      "carbohydrate": 33.0,
+      "sodium": 43.0,
+      "calcium": 21.0
+    },
+    {
+      "productName": "优品豆浆小杯",
+      "energyKj": 633.0,
+      "kcal": 151.0,
+      "protein": 6.0,
+      "fat": 3.0,
+      "carbohydrate": 25.0,
+      "sodium": 32.0,
+      "calcium": 15.0
+    },
+    {
+      "productName": "浓浓黑巧雪冰中杯",
+      "energyKj": 1501.0,
+      "kcal": 359.0,
+      "protein": 8.0,
+      "fat": 12.0,
+      "carbohydrate": 51.0,
+      "sodium": 224.0,
+      "calcium": 207.0
+    },
+    {
+      "productName": "浓浓黑巧雪冰大杯",
+      "energyKj": 1857.0,
+      "kcal": 444.0,
+      "protein": 11.0,
+      "fat": 14.0,
+      "carbohydrate": 65.0,
+      "sodium": 258.0,
+      "calcium": 251.0
+    },
+    {
+      "productName": "特浓奶香雪冰中杯",
+      "energyKj": 1124.0,
+      "kcal": 269.0,
+      "protein": 6.0,
+      "fat": 11.0,
+      "carbohydrate": 36.0,
+      "sodium": 180.0,
+      "calcium": 188.0
+    },
+    {
+      "productName": "特浓奶香雪冰大杯",
+      "energyKj": 1291.0,
+      "kcal": 309.0,
+      "protein": 7.0,
+      "fat": 12.0,
+      "carbohydrate": 42.0,
+      "sodium": 192.0,
+      "calcium": 223.0
+    },
+    {
+      "productName": "浓浓抹茶雪冰中杯",
+      "energyKj": 1208.0,
+      "kcal": 289.0,
+      "protein": 7.0,
+      "fat": 11.0,
+      "carbohydrate": 39.0,
+      "sodium": 181.0,
+      "calcium": 220.0
+    },
+    {
+      "productName": "浓浓抹茶雪冰大杯",
+      "energyKj": 1418.0,
+      "kcal": 339.0,
+      "protein": 8.0,
+      "fat": 12.0,
+      "carbohydrate": 48.0,
+      "sodium": 194.0,
+      "calcium": 270.0
+    },
+    {
+      "productName": "热牛奶中杯",
+      "energyKj": 738.0,
+      "kcal": 176.0,
+      "protein": 10.0,
+      "fat": 8.0,
+      "carbohydrate": 15.0,
+      "sodium": 101.0,
+      "calcium": 319.0
+    },
+    {
+      "productName": "热牛奶大杯",
+      "energyKj": 1006.0,
+      "kcal": 240.0,
+      "protein": 13.0,
+      "fat": 11.0,
+      "carbohydrate": 21.0,
+      "sodium": 137.0,
+      "calcium": 435.0
+    },
+    {
+      "productName": "热牛奶小杯",
+      "energyKj": 617.0,
+      "kcal": 147.0,
+      "protein": 8.0,
+      "fat": 7.0,
+      "carbohydrate": 13.0,
+      "sodium": 84.0,
+      "calcium": 267.0
+    },
+    {
+      "productName": "冰牛奶中杯",
+      "energyKj": 939.0,
+      "kcal": 224.0,
+      "protein": 13.0,
+      "fat": 11.0,
+      "carbohydrate": 19.0,
+      "sodium": 128.0,
+      "calcium": 406.0
+    },
+    {
+      "productName": "冰牛奶大杯",
+      "energyKj": 1127.0,
+      "kcal": 269.0,
+      "protein": 15.0,
+      "fat": 13.0,
+      "carbohydrate": 23.0,
+      "sodium": 154.0,
+      "calcium": 487.0
+    },
+    {
+      "productName": "冰牛奶小杯",
+      "energyKj": 617.0,
+      "kcal": 147.0,
+      "protein": 8.0,
+      "fat": 7.0,
+      "carbohydrate": 13.0,
+      "sodium": 84.0,
+      "calcium": 267.0
+    },
+    {
+      "productName": "冰奶铁中杯",
+      "energyKj": 618.0,
+      "kcal": 148.0,
+      "protein": 8.0,
+      "fat": 7.0,
+      "carbohydrate": 13.0,
+      "sodium": 77.0,
+      "calcium": 251.0
+    },
+    {
+      "productName": "冰奶铁大杯",
+      "energyKj": 678.0,
+      "kcal": 162.0,
+      "protein": 9.0,
+      "fat": 7.0,
+      "carbohydrate": 15.0,
+      "sodium": 85.0,
+      "calcium": 275.0
+    },
+    {
+      "productName": "冰奶铁小杯",
+      "energyKj": 358.0,
+      "kcal": 86.0,
+      "protein": 5.0,
+      "fat": 4.0,
+      "carbohydrate": 8.0,
+      "sodium": 44.0,
+      "calcium": 144.0
+    },
+    {
+      "productName": "热奶铁中杯",
+      "energyKj": 779.0,
+      "kcal": 186.0,
+      "protein": 11.0,
+      "fat": 8.0,
+      "carbohydrate": 17.0,
+      "sodium": 99.0,
+      "calcium": 320.0
+    },
+    {
+      "productName": "热奶铁大杯",
+      "energyKj": 1040.0,
+      "kcal": 249.0,
+      "protein": 14.0,
+      "fat": 11.0,
+      "carbohydrate": 22.0,
+      "sodium": 134.0,
+      "calcium": 431.0
+    },
+    {
+      "productName": "热奶铁小杯",
+      "energyKj": 559.0,
+      "kcal": 134.0,
+      "protein": 8.0,
+      "fat": 6.0,
+      "carbohydrate": 12.0,
+      "sodium": 72.0,
+      "calcium": 231.0
+    },
+    {
+      "productName": "冰燕麦奶铁中杯",
+      "energyKj": 554.0,
+      "kcal": 132.0,
+      "protein": 3.0,
+      "fat": 5.0,
+      "carbohydrate": 17.0,
+      "sodium": 87.0,
+      "calcium": 270.0
+    },
+    {
+      "productName": "冰燕麦奶铁大杯",
+      "energyKj": 608.0,
+      "kcal": 145.0,
+      "protein": 4.0,
+      "fat": 5.0,
+      "carbohydrate": 19.0,
+      "sodium": 96.0,
+      "calcium": 296.0
+    },
+    {
+      "productName": "冰燕麦奶铁小杯",
+      "energyKj": 322.0,
+      "kcal": 77.0,
+      "protein": 2.0,
+      "fat": 3.0,
+      "carbohydrate": 10.0,
+      "sodium": 50.0,
+      "calcium": 155.0
+    },
+    {
+      "productName": "热燕麦奶铁中杯",
+      "energyKj": 697.0,
+      "kcal": 167.0,
+      "protein": 4.0,
+      "fat": 6.0,
+      "carbohydrate": 22.0,
+      "sodium": 112.0,
+      "calcium": 345.0
+    },
+    {
+      "productName": "热燕麦奶铁大杯",
+      "energyKj": 929.0,
+      "kcal": 222.0,
+      "protein": 5.0,
+      "fat": 8.0,
+      "carbohydrate": 29.0,
+      "sodium": 152.0,
+      "calcium": 464.0
+    },
+    {
+      "productName": "热燕麦奶铁小杯",
+      "energyKj": 500.0,
+      "kcal": 120.0,
+      "protein": 3.0,
+      "fat": 5.0,
+      "carbohydrate": 16.0,
+      "sodium": 81.0,
+      "calcium": 248.0
+    },
+    {
+      "productName": "冰美式中杯",
+      "energyKj": 54.0,
+      "kcal": 13.0,
+      "protein": 1.0,
+      "fat": 0.0,
+      "carbohydrate": 2.0,
+      "sodium": 0.0,
+      "calcium": 7.0
+    },
+    {
+      "productName": "冰美式大杯",
+      "energyKj": 60.0,
+      "kcal": 14.0,
+      "protein": 1.0,
+      "fat": 0.0,
+      "carbohydrate": 2.0,
+      "sodium": 0.0,
+      "calcium": 8.0
+    },
+    {
+      "productName": "冰美式小杯",
+      "energyKj": 41.0,
+      "kcal": 10.0,
+      "protein": 1.0,
+      "fat": 0.0,
+      "carbohydrate": 1.0,
+      "sodium": 0.0,
+      "calcium": 6.0
+    },
+    {
+      "productName": "热美式中杯",
+      "energyKj": 54.0,
+      "kcal": 13.0,
+      "protein": 1.0,
+      "fat": 0.0,
+      "carbohydrate": 2.0,
+      "sodium": 0.0,
+      "calcium": 7.0
+    },
+    {
+      "productName": "热美式大杯",
+      "energyKj": 60.0,
+      "kcal": 14.0,
+      "protein": 1.0,
+      "fat": 0.0,
+      "carbohydrate": 2.0,
+      "sodium": 0.0,
+      "calcium": 8.0
+    },
+    {
+      "productName": "热美式小杯",
+      "energyKj": 41.0,
+      "kcal": 10.0,
+      "protein": 1.0,
+      "fat": 0.0,
+      "carbohydrate": 1.0,
+      "sodium": 0.0,
+      "calcium": 6.0
+    },
+    {
+      "productName": "冰焦糖玛奇朵",
+      "energyKj": 618.0,
+      "kcal": 148.0,
+      "protein": 8.0,
+      "fat": 7.0,
+      "carbohydrate": 13.0,
+      "sodium": 77.0,
+      "calcium": 251.0
+    },
+    {
+      "productName": "热焦糖玛奇朵",
+      "energyKj": 698.0,
+      "kcal": 167.0,
+      "protein": 9.0,
+      "fat": 7.0,
+      "carbohydrate": 15.0,
+      "sodium": 88.0,
+      "calcium": 284.0
+    },
+    {
+      "productName": "卡布奇诺中杯",
+      "energyKj": 698.0,
+      "kcal": 167.0,
+      "protein": 9.0,
+      "fat": 7.0,
+      "carbohydrate": 15.0,
+      "sodium": 88.0,
+      "calcium": 285.0
+    },
+    {
+      "productName": "卡布奇诺大杯",
+      "energyKj": 932.0,
+      "kcal": 223.0,
+      "protein": 13.0,
+      "fat": 10.0,
+      "carbohydrate": 20.0,
+      "sodium": 120.0,
+      "calcium": 385.0
+    },
+    {
+      "productName": "冰浓浓燕麦黑巧中杯",
+      "energyKj": 500.0,
+      "kcal": 120.0,
+      "protein": 2.0,
+      "fat": 5.0,
+      "carbohydrate": 16.0,
+      "sodium": 87.0,
+      "calcium": 263.0
+    },
+    {
+      "productName": "冰浓浓燕麦黑巧大杯",
+      "energyKj": 547.0,
+      "kcal": 131.0,
+      "protein": 3.0,
+      "fat": 5.0,
+      "carbohydrate": 17.0,
+      "sodium": 95.0,
+      "calcium": 388.0
+    },
+    {
+      "productName": "冰燕麦奶中杯",
+      "energyKj": 833.0,
+      "kcal": 199.0,
+      "protein": 4.0,
+      "fat": 8.0,
+      "carbohydrate": 26.0,
+      "sodium": 145.0,
+      "calcium": 438.0
+    },
+    {
+      "productName": "冰燕麦奶大杯",
+      "energyKj": 1000.0,
+      "kcal": 239.0,
+      "protein": 5.0,
+      "fat": 9.0,
+      "carbohydrate": 32.0,
+      "sodium": 174.0,
+      "calcium": 525.0
+    },
+    {
+      "productName": "冰燕麦奶小杯",
+      "energyKj": 547.0,
+      "kcal": 131.0,
+      "protein": 3.0,
+      "fat": 5.0,
+      "carbohydrate": 17.0,
+      "sodium": 95.0,
+      "calcium": 288.0
+    },
+    {
+      "productName": "热燕麦奶中杯",
+      "energyKj": 655.0,
+      "kcal": 157.0,
+      "protein": 3.0,
+      "fat": 6.0,
+      "carbohydrate": 21.0,
+      "sodium": 114.0,
+      "calcium": 344.0
+    },
+    {
+      "productName": "热燕麦奶大杯",
+      "energyKj": 893.0,
+      "kcal": 213.0,
+      "protein": 4.0,
+      "fat": 8.0,
+      "carbohydrate": 28.0,
+      "sodium": 156.0,
+      "calcium": 469.0
+    },
+    {
+      "productName": "热燕麦奶小杯",
+      "energyKj": 547.0,
+      "kcal": 131.0,
+      "protein": 3.0,
+      "fat": 5.0,
+      "carbohydrate": 17.0,
+      "sodium": 95.0,
+      "calcium": 288.0
+    },
+    {
+      "productName": "冰浓浓抹茶牛奶中杯",
+      "energyKj": 821.0,
+      "kcal": 196.0,
+      "protein": 8.0,
+      "fat": 6.0,
+      "carbohydrate": 25.0,
+      "sodium": 80.0,
+      "calcium": 275.0
+    },
+    {
+      "productName": "冰浓浓抹茶牛奶大杯",
+      "energyKj": 1004.0,
+      "kcal": 240.0,
+      "protein": 9.0,
+      "fat": 7.0,
+      "carbohydrate": 33.0,
+      "sodium": 89.0,
+      "calcium": 314.0
+    },
+    {
+      "productName": "热浓浓抹茶牛奶中杯",
+      "energyKj": 996.0,
+      "kcal": 238.0,
+      "protein": 11.0,
+      "fat": 8.0,
+      "carbohydrate": 29.0,
+      "sodium": 104.0,
+      "calcium": 351.0
+    },
+    {
+      "productName": "热浓浓抹茶牛奶大杯",
+      "energyKj": 1393.0,
+      "kcal": 333.0,
+      "protein": 14.0,
+      "fat": 12.0,
+      "carbohydrate": 41.0,
+      "sodium": 142.0,
+      "calcium": 482.0
+    },
+    {
+      "productName": "冰浓浓黑巧中杯",
+      "energyKj": 563.0,
+      "kcal": 135.0,
+      "protein": 8.0,
+      "fat": 6.0,
+      "carbohydrate": 12.0,
+      "sodium": 77.0,
+      "calcium": 244.0
+    },
+    {
+      "productName": "冰浓浓黑巧大杯",
+      "energyKj": 617.0,
+      "kcal": 147.0,
+      "protein": 8.0,
+      "fat": 7.0,
+      "carbohydrate": 13.0,
+      "sodium": 84.0,
+      "calcium": 267.0
+    },
+    {
+      "productName": "热浓浓黑巧中杯",
+      "energyKj": 738.0,
+      "kcal": 176.0,
+      "protein": 10.0,
+      "fat": 8.0,
+      "carbohydrate": 15.0,
+      "sodium": 101.0,
+      "calcium": 319.0
+    },
+    {
+      "productName": "热浓浓黑巧大杯",
+      "energyKj": 1006.0,
+      "kcal": 240.0,
+      "protein": 13.0,
+      "fat": 11.0,
+      "carbohydrate": 21.0,
+      "sodium": 137.0,
+      "calcium": 435.0
+    },
+    {
+      "productName": "川宁伯爵红茶",
+      "energyKj": 7.0,
+      "kcal": 2.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 0.0,
+      "sodium": 0.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "抹茶阿芙佳朵",
+      "energyKj": 613.0,
+      "kcal": 147.0,
+      "protein": 3.0,
+      "fat": 4.0,
+      "carbohydrate": 23.0,
+      "sodium": 50.0,
+      "calcium": 136.0
+    },
+    {
+      "productName": "咖啡阿芙佳朵",
+      "energyKj": 583.0,
+      "kcal": 139.0,
+      "protein": 4.0,
+      "fat": 4.0,
+      "carbohydrate": 21.0,
+      "sodium": 49.0,
+      "calcium": 111.0
+    },
+    {
+      "productName": "热浓浓燕麦黑巧中杯",
+      "energyKj": 655.0,
+      "kcal": 157.0,
+      "protein": 3.0,
+      "fat": 6.0,
+      "carbohydrate": 21.0,
+      "sodium": 114.0,
+      "calcium": 344.0
+    },
+    {
+      "productName": "热浓浓燕麦黑巧大杯",
+      "energyKj": 893.0,
+      "kcal": 213.0,
+      "protein": 4.0,
+      "fat": 8.0,
+      "carbohydrate": 28.0,
+      "sodium": 156.0,
+      "calcium": 469.0
+    },
+    {
+      "productName": "草莓拉明顿",
+      "energyKj": 507.0,
+      "kcal": 121.0,
+      "protein": 2.0,
+      "fat": 8.0,
+      "carbohydrate": 11.0,
+      "sodium": 34.0,
+      "calcium": 17.0
+    },
+    {
+      "productName": "原味板烧鸡腿炒双蛋堡",
+      "energyKj": 1754.0,
+      "kcal": 419.0,
+      "protein": 27.0,
+      "fat": 21.0,
+      "carbohydrate": 30.0,
+      "sodium": 715.0,
+      "calcium": 116.0
+    },
+    {
+      "productName": "双层猪柳蛋麦满分",
+      "energyKj": 2148.0,
+      "kcal": 513.0,
+      "protein": 29.0,
+      "fat": 32.0,
+      "carbohydrate": 26.0,
+      "sodium": 1210.0,
+      "calcium": 249.0
+    },
+    {
+      "productName": "双层火腿扒麦满分",
+      "energyKj": 1611.0,
+      "kcal": 385.0,
+      "protein": 21.0,
+      "fat": 22.0,
+      "carbohydrate": 26.0,
+      "sodium": 979.0,
+      "calcium": 134.0
+    },
+    {
+      "productName": "脆脆薯条",
+      "energyKj": 1168.0,
+      "kcal": 279.0,
+      "protein": 4.0,
+      "fat": 14.0,
+      "carbohydrate": 32.0,
+      "sodium": 540.0,
+      "calcium": 13.0
+    },
+    {
+      "productName": "麦麦趣鸡球",
+      "energyKj": 1113.0,
+      "kcal": 266.0,
+      "protein": 17.0,
+      "fat": 13.0,
+      "carbohydrate": 19.0,
+      "sodium": 789.0,
+      "calcium": 13.0
+    },
+    {
+      "productName": "酥酥多笋卷",
+      "energyKj": 1431.0,
+      "kcal": 342.0,
+      "protein": 14.0,
+      "fat": 15.0,
+      "carbohydrate": 36.0,
+      "sodium": 1044.0,
+      "calcium": 41.0
+    },
+    {
+      "productName": "薄皮焦香V翅",
+      "energyKj": 804.0,
+      "kcal": 192.0,
+      "protein": 17.0,
+      "fat": 11.0,
+      "carbohydrate": 6.0,
+      "sodium": 594.0,
+      "calcium": 15.0
+    },
+    {
+      "productName": "蜜汁BBQ风味薄皮脆汁鸡-带骨里脊",
+      "energyKj": 637.0,
+      "kcal": 152.0,
+      "protein": 20.0,
+      "fat": 5.0,
+      "carbohydrate": 6.0,
+      "sodium": 635.0,
+      "calcium": 28.0
+    },
+    {
+      "productName": "蜜汁BBQ风味薄皮脆汁鸡-琵琶腿",
+      "energyKj": 724.0,
+      "kcal": 173.0,
+      "protein": 18.0,
+      "fat": 9.0,
+      "carbohydrate": 5.0,
+      "sodium": 547.0,
+      "calcium": 15.0
+    },
+    {
+      "productName": "果然多肉",
+      "energyKj": 2001.0,
+      "kcal": 478.0,
+      "protein": 36.0,
+      "fat": 17.0,
+      "carbohydrate": 44.0,
+      "sodium": 1343.0,
+      "calcium": 190.0
+    },
+    {
+      "productName": "“苹板”支撑Pro",
+      "energyKj": 1993.0,
+      "kcal": 476.0,
+      "protein": 25.0,
+      "fat": 18.0,
+      "carbohydrate": 50.0,
+      "sodium": 1077.0,
+      "calcium": 117.0
+    },
+    {
+      "productName": "专“薯鱼”你",
+      "energyKj": 1936.0,
+      "kcal": 463.0,
+      "protein": 18.0,
+      "fat": 17.0,
+      "carbohydrate": 57.0,
+      "sodium": 652.0,
+      "calcium": 123.0
+    },
+    {
+      "productName": "绝代双翅",
+      "energyKj": 1964.0,
+      "kcal": 469.0,
+      "protein": 32.0,
+      "fat": 27.0,
+      "carbohydrate": 23.0,
+      "sodium": 1167.0,
+      "calcium": 34.0
+    },
+    {
+      "productName": "牛气满满",
+      "energyKj": 2073.0,
+      "kcal": 495.0,
+      "protein": 26.0,
+      "fat": 24.0,
+      "carbohydrate": 42.0,
+      "sodium": 764.0,
+      "calcium": 79.0
+    },
+    {
+      "productName": "蜜汁快乐",
+      "energyKj": 1081.0,
+      "kcal": 258.0,
+      "protein": 22.0,
+      "fat": 9.0,
+      "carbohydrate": 20.0,
+      "sodium": 721.0,
+      "calcium": 34.0
+    },
+    {
+      "productName": "迷你朱古力新地",
+      "energyKj": 586.0,
+      "kcal": 140.0,
+      "protein": 3.0,
+      "fat": 4.0,
+      "carbohydrate": 22.0,
+      "sodium": 63.0,
+      "calcium": 90.0
+    },
+    {
+      "productName": "迷你草莓新地",
+      "energyKj": 511.0,
+      "kcal": 122.0,
+      "protein": 2.0,
+      "fat": 3.0,
+      "carbohydrate": 21.0,
+      "sodium": 42.0,
+      "calcium": 78.0
+    },
+    {
+      "productName": "鲜蔬蛋沙拉叠叠卷",
+      "energyKj": 1114.0,
+      "kcal": 266.0,
+      "protein": 11.0,
+      "fat": 14.0,
+      "carbohydrate": 24.0,
+      "sodium": 518.0,
+      "calcium": 62.0
+    },
+    {
+      "productName": "鸡肉蛋沙拉叠叠卷",
+      "energyKj": 1621.0,
+      "kcal": 387.0,
+      "protein": 17.0,
+      "fat": 21.0,
+      "carbohydrate": 31.0,
+      "sodium": 842.0,
+      "calcium": 67.0
+    },
+    {
+      "productName": "中杯怡泉+C",
+      "energyKj": 461.0,
+      "kcal": 110.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 27.0,
+      "sodium": 0.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "大杯怡泉+C",
+      "energyKj": 701.0,
+      "kcal": 168.0,
+      "protein": 0.0,
+      "fat": 0.0,
+      "carbohydrate": 41.0,
+      "sodium": 0.0,
+      "calcium": 0.0
+    },
+    {
+      "productName": "蒜了吧黄油风味薄皮脆汁鸡-琵琶腿",
+      "energyKj": 688.0,
+      "kcal": 164.0,
+      "protein": 19.0,
+      "fat": 6.0,
+      "carbohydrate": 6.0,
+      "sodium": 867.0,
+      "calcium": 9.0
+    },
+    {
+      "productName": "蒜了吧黄油风味薄皮脆汁鸡-带骨里脊",
+      "energyKj": 526.0,
+      "kcal": 126.0,
+      "protein": 19.0,
+      "fat": 2.0,
+      "carbohydrate": 4.0,
+      "sodium": 750.0,
+      "calcium": 59.0
+    },
+    {
+      "productName": "柠萌风味薄皮焦香V翅",
+      "energyKj": 855.0,
+      "kcal": 204.0,
+      "protein": 18.0,
+      "fat": 11.0,
+      "carbohydrate": 6.0,
+      "sodium": 768.0,
+      "calcium": 22.0
+    }
+  ],
+  "coupons": [
+    {
+      "title": "中薯条买一送一",
+      "couponId": "8692944B045928451618BFF22F535D2A",
+      "couponCode": "MCD697730490QN1810108",
+      "tradeDateTime": "2026-10-12 10:30:00-2026-10-16 23:59:59",
+      "products": [
+        {
+          "productCode": "9900012387",
+          "productName": "中薯条买一送一"
+        }
+      ],
+      "promotionId": "112458028"
+    },
+    {
+      "title": "王牌小食拼",
+      "couponId": "E05F6BFB4BAFAA5DB44B233583BFE711",
+      "couponCode": "MCD698009Q030119700N8",
+      "tradeDateTime": "2026-10-12 10:30:00-2026-10-16 23:59:59",
+      "products": [
+        {
+          "productCode": "9900016371",
+          "productName": "王牌小食拼"
+        }
+      ],
+      "promotionId": "112458029"
+    }
+  ],
+  "details": {
+    "1120": {
+      "code": "1120",
+      "name": "双层吉士汉堡",
+      "rounds": [],
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260101/product/MS_1120_600.png",
+      "modification": {
+        "items": [
+          {
+            "maxValues": 5,
+            "minValues": 0,
+            "values": [
+              {
+                "code": "100141",
+                "price": 0,
+                "name": "吉士",
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "selectedQuantity": 1,
+                "selectedKey": "0-1",
+                "unselectedKey": "0-0"
+              },
+              {
+                "code": "100202",
+                "price": 0,
+                "name": "酸黄瓜",
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "selectedQuantity": 1,
+                "selectedKey": "0-1",
+                "unselectedKey": "0-0"
+              },
+              {
+                "code": "100212",
+                "price": 0,
+                "name": "洋葱粒",
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "selectedQuantity": 1,
+                "selectedKey": "0-1",
+                "unselectedKey": "0-0"
+              },
+              {
+                "code": "100214",
+                "price": 0,
+                "name": "番茄酱",
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "selectedQuantity": 1,
+                "selectedKey": "0-1",
+                "unselectedKey": "0-0"
+              },
+              {
+                "code": "102230",
+                "price": 0,
+                "name": "芥末酱",
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "selectedQuantity": 1,
+                "selectedKey": "0-1",
+                "unselectedKey": "0-0"
+              }
+            ]
+          }
+        ]
+      },
+      "supportModify": true
+    },
+    "9900005411": {
+      "code": "9900005411",
+      "name": "不素之霸双层牛堡三件套",
+      "rounds": [
+        {
+          "id": 1,
+          "name": "不素之霸双层牛堡",
+          "quantity": 1,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "choices": [
+            {
+              "code": "4648",
+              "name": "不素之霸双层牛堡",
+              "quantity": 1,
+              "maxQuantity": -1,
+              "isDefault": 1,
+              "diffPrice": "+ ¥0",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 0,
+                    "values": [
+                      {
+                        "code": "102229",
+                        "price": 0,
+                        "name": "芥末沙拉酱",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1",
+                        "unselectedKey": "0-0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "选择套餐内小食",
+          "quantity": 1,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "choices": [
+            {
+              "code": "4810",
+              "name": "中薯条",
+              "quantity": 1,
+              "maxQuantity": -1,
+              "isDefault": 1,
+              "diffPrice": "+ ¥0",
+              "supportModify": false
+            },
+            {
+              "code": "521983",
+              "name": "5块心形薯饼+韩式辣椒黄油风味酱",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥1",
+              "supportModify": false
+            },
+            {
+              "code": "521901",
+              "name": "月下相思扭扭薯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥1.5",
+              "supportModify": false
+            },
+            {
+              "code": "4820",
+              "name": "大薯条",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥2.5",
+              "supportModify": false
+            },
+            {
+              "code": "4437",
+              "name": "小杯玉米杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "- ¥0.5",
+              "supportModify": false
+            },
+            {
+              "code": "4438",
+              "name": "大杯玉米杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥2.5",
+              "supportModify": false
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "选择套餐内饮料",
+          "quantity": 1,
+          "maxQuantity": 1,
+          "minQuantity": 1,
+          "choices": [
+            {
+              "code": "3050",
+              "name": "可乐中杯",
+              "quantity": 1,
+              "maxQuantity": -1,
+              "isDefault": 1,
+              "diffPrice": "+ ¥0",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "521817",
+              "name": "【美汁源】“多汁柠柠”",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥1",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "521588",
+              "name": "香草风味奶昔",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥8",
+              "supportModify": false
+            },
+            {
+              "code": "521589",
+              "name": "草莓风味奶昔",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥8",
+              "supportModify": false
+            },
+            {
+              "code": "515945",
+              "name": "热浓浓黑巧中杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥11",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 0,
+                    "minValues": 0,
+                    "values": []
+                  }
+                ]
+              }
+            },
+            {
+              "code": "3071",
+              "name": "无糖可口可乐中杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥0",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "3060",
+              "name": "雪碧中杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥0",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "515281",
+              "name": "阳光柠檬红茶中杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥0",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "3755",
+              "name": "纯牛奶",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥0.5",
+              "supportModify": false
+            },
+            {
+              "code": "507411",
+              "name": "麦咖啡™冰美式中杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥9",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  },
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "8008",
+                        "price": 0,
+                        "name": "不加",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "8008",
+                        "price": 500,
+                        "name": "加",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "520688",
+              "name": "大杯鲜萃咖啡",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥1.5",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 2,
+                    "minValues": 0,
+                    "values": [
+                      {
+                        "code": "120519",
+                        "price": 0,
+                        "name": "奶油球",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1",
+                        "unselectedKey": "0-0"
+                      },
+                      {
+                        "code": "120520",
+                        "price": 0,
+                        "name": "白砂糖",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1",
+                        "unselectedKey": "0-0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "507368",
+              "name": "麦咖啡™热美式中杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥9",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "8008",
+                        "price": 0,
+                        "name": "不加",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "8008",
+                        "price": 500,
+                        "name": "加",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "507409",
+              "name": "麦咖啡™冰奶铁中杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥11",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  },
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "8008",
+                        "price": 0,
+                        "name": "不加",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "8008",
+                        "price": 500,
+                        "name": "加",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "515946",
+              "name": "冰浓浓黑巧中杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥11",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 0,
+                    "minValues": 0,
+                    "values": []
+                  },
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "515954",
+              "name": "热浓浓燕麦黑巧中杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥13",
+              "supportModify": false
+            },
+            {
+              "code": "515955",
+              "name": "冰浓浓燕麦黑巧中杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥13",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "3100",
+              "name": "可乐大杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥2",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "3111",
+              "name": "无糖可口可乐大杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥2",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "515521",
+              "name": "大杯怡泉+C",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥3.5",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "3110",
+              "name": "雪碧大杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥2",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "507328",
+              "name": "麦咖啡™热奶铁中杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥11",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "8008",
+                        "price": 0,
+                        "name": "不加",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "8008",
+                        "price": 500,
+                        "name": "加",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "2430",
+              "name": "【美汁源】“黄金橙橙”",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥3",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "3505",
+              "name": "锡兰红茶",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥1.5",
+              "supportModify": false
+            },
+            {
+              "code": "515282",
+              "name": "阳光柠檬红茶大杯",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥2",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "code": "6362",
+              "name": "100%苹果汁",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥1.5",
+              "supportModify": false
+            },
+            {
+              "code": "515520",
+              "name": "中杯怡泉+C",
+              "quantity": 0,
+              "maxQuantity": -1,
+              "isDefault": 0,
+              "diffPrice": "+ ¥1.5",
+              "supportModify": true,
+              "modification": {
+                "items": [
+                  {
+                    "maxValues": 1,
+                    "minValues": 1,
+                    "values": [
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "标准",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 1,
+                        "selectedKey": "0-1"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "去冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-0"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "多冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "0-2"
+                      },
+                      {
+                        "code": "200002",
+                        "price": 0,
+                        "name": "少冰",
+                        "maxQuantity": 1,
+                        "minQuantity": 0,
+                        "selectedQuantity": 0,
+                        "selectedKey": "1-1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005411_600.png",
+      "supportModify": false
+    },
+    "507411": {
+      "code": "507411",
+      "name": "麦咖啡™冰美式中杯",
+      "rounds": [],
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250804/product/MS_507411_600.png",
+      "modification": {
+        "items": [
+          {
+            "maxValues": 1,
+            "minValues": 1,
+            "values": [
+              {
+                "code": "200002",
+                "price": 0,
+                "name": "标准",
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "selectedQuantity": 1,
+                "selectedKey": "0-1"
+              },
+              {
+                "code": "200002",
+                "price": 0,
+                "name": "去冰",
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "selectedQuantity": 0,
+                "selectedKey": "0-0"
+              },
+              {
+                "code": "200002",
+                "price": 0,
+                "name": "多冰",
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "selectedQuantity": 0,
+                "selectedKey": "0-2"
+              },
+              {
+                "code": "200002",
+                "price": 0,
+                "name": "少冰",
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "selectedQuantity": 0,
+                "selectedKey": "1-1"
+              }
+            ]
+          },
+          {
+            "maxValues": 1,
+            "minValues": 1,
+            "values": [
+              {
+                "code": "8008",
+                "price": 0,
+                "name": "不加",
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "selectedQuantity": 1,
+                "selectedKey": "0-0"
+              },
+              {
+                "code": "8008",
+                "price": 500,
+                "name": "加",
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "selectedQuantity": 0,
+                "selectedKey": "0-1"
+              }
+            ]
+          }
+        ]
+      },
+      "supportModify": true
+    }
+  },
+  "price": {
+    "seed-cheese-stack": {
+      "storeCode": "1450713",
+      "recipe": {
+        "id": "seed-cheese-stack",
+        "name": "双层吉士汉堡 ×3 叠搭"
+      },
+      "base": {
+        "productOriginalPrice": 6900,
+        "productPrice": 6900,
+        "originalPrice": 6900,
+        "discount": 0,
+        "price": 6900,
+        "productList": [
+          {
+            "productCode": "1120",
+            "productName": "双层吉士汉堡",
+            "quantity": 3,
+            "originalSubtotal": 6900,
+            "subtotal": 6900
+          }
+        ],
+        "takeWayList": [
+          {
+            "code": "eat-in",
+            "title": "堂食",
+            "subtitle": "店内用餐"
+          },
+          {
+            "code": "locker-out",
+            "title": "外带",
+            "subtitle": "店外取餐柜"
+          }
+        ]
+      },
+      "base_original_yuan": "69.00",
+      "base_yuan": "69.00",
+      "base_discount_yuan": "0.00",
+      "base_has_auto_discount": false,
+      "coupon_trials": [
+        {
+          "title": "中薯条买一送一",
+          "coupon_product": "中薯条买一送一",
+          "coupon_product_code": "9900012387",
+          "validity": "2026-10-12 10:30:00-2026-10-16 23:59:59",
+          "addon_original_cents": 2700,
+          "addon_pay_cents": 1350,
+          "addon_saved_cents": 1350,
+          "total_original_cents": 9600,
+          "total_with_addon_cents": 8250,
+          "total_discount_cents": 1350
+        },
+        {
+          "title": "王牌小食拼",
+          "coupon_product": "王牌小食拼",
+          "coupon_product_code": "9900016371",
+          "validity": "2026-10-12 10:30:00-2026-10-16 23:59:59",
+          "addon_original_cents": 2200,
+          "addon_pay_cents": 1590,
+          "addon_saved_cents": 610,
+          "total_original_cents": 9100,
+          "total_with_addon_cents": 8490,
+          "total_discount_cents": 610
+        }
+      ],
+      "best_addon": {
+        "title": "中薯条买一送一",
+        "coupon_product": "中薯条买一送一",
+        "coupon_product_code": "9900012387",
+        "validity": "2026-10-12 10:30:00-2026-10-16 23:59:59",
+        "addon_original_cents": 2700,
+        "addon_pay_cents": 1350,
+        "addon_saved_cents": 1350,
+        "total_original_cents": 9600,
+        "total_with_addon_cents": 8250,
+        "total_discount_cents": 1350
+      }
+    },
+    "seed-combo-upgrade": {
+      "storeCode": "1450713",
+      "recipe": {
+        "id": "seed-combo-upgrade",
+        "name": "不素之霸三件套 · 升大薯条"
+      },
+      "base": {
+        "productOriginalPrice": 4000,
+        "productPrice": 4000,
+        "originalPrice": 4000,
+        "discount": 0,
+        "price": 4000,
+        "productList": [
+          {
+            "productCode": "9900005411",
+            "productName": "不素之霸双层牛堡三件套",
+            "quantity": 1,
+            "originalSubtotal": 4000,
+            "subtotal": 4000
+          }
+        ],
+        "takeWayList": [
+          {
+            "code": "eat-in",
+            "title": "堂食",
+            "subtitle": "店内用餐"
+          },
+          {
+            "code": "locker-out",
+            "title": "外带",
+            "subtitle": "店外取餐柜"
+          }
+        ]
+      },
+      "base_original_yuan": "40.00",
+      "base_yuan": "40.00",
+      "base_discount_yuan": "0.00",
+      "base_has_auto_discount": false,
+      "coupon_trials": [
+        {
+          "title": "中薯条买一送一",
+          "coupon_product": "中薯条买一送一",
+          "coupon_product_code": "9900012387",
+          "validity": "2026-10-12 10:30:00-2026-10-16 23:59:59",
+          "addon_original_cents": 2700,
+          "addon_pay_cents": 1350,
+          "addon_saved_cents": 1350,
+          "total_original_cents": 6700,
+          "total_with_addon_cents": 5350,
+          "total_discount_cents": 1350
+        },
+        {
+          "title": "王牌小食拼",
+          "coupon_product": "王牌小食拼",
+          "coupon_product_code": "9900016371",
+          "validity": "2026-10-12 10:30:00-2026-10-16 23:59:59",
+          "addon_original_cents": 2200,
+          "addon_pay_cents": 1590,
+          "addon_saved_cents": 610,
+          "total_original_cents": 6200,
+          "total_with_addon_cents": 5590,
+          "total_discount_cents": 610
+        }
+      ],
+      "best_addon": {
+        "title": "中薯条买一送一",
+        "coupon_product": "中薯条买一送一",
+        "coupon_product_code": "9900012387",
+        "validity": "2026-10-12 10:30:00-2026-10-16 23:59:59",
+        "addon_original_cents": 2700,
+        "addon_pay_cents": 1350,
+        "addon_saved_cents": 1350,
+        "total_original_cents": 6700,
+        "total_with_addon_cents": 5350,
+        "total_discount_cents": 1350
+      }
+    },
+    "seed-caffeine-combo": {
+      "storeCode": "1450713",
+      "recipe": {
+        "id": "seed-caffeine-combo",
+        "name": "吉士汉堡 + 加浓缩冰美式"
+      },
+      "base": {
+        "productOriginalPrice": 4700,
+        "productPrice": 3990,
+        "originalPrice": 4700,
+        "discount": 710,
+        "price": 3990,
+        "productList": [
+          {
+            "productCode": "1120",
+            "productName": "双层吉士汉堡",
+            "quantity": 1,
+            "originalSubtotal": 2300,
+            "subtotal": 2300
+          },
+          {
+            "productCode": "507411",
+            "productName": "麦咖啡™冰美式中杯",
+            "quantity": 1,
+            "originalSubtotal": 2400,
+            "subtotal": 1690
+          }
+        ],
+        "takeWayList": [
+          {
+            "code": "eat-in",
+            "title": "堂食",
+            "subtitle": "店内用餐"
+          },
+          {
+            "code": "locker-out",
+            "title": "外带",
+            "subtitle": "店外取餐柜"
+          }
+        ]
+      },
+      "base_original_yuan": "47.00",
+      "base_yuan": "39.90",
+      "base_discount_yuan": "7.10",
+      "base_has_auto_discount": true,
+      "coupon_trials": [
+        {
+          "title": "中薯条买一送一",
+          "coupon_product": "中薯条买一送一",
+          "coupon_product_code": "9900012387",
+          "validity": "2026-10-12 10:30:00-2026-10-16 23:59:59",
+          "addon_original_cents": 2700,
+          "addon_pay_cents": 1350,
+          "addon_saved_cents": 1350,
+          "total_original_cents": 7400,
+          "total_with_addon_cents": 5340,
+          "total_discount_cents": 2060
+        },
+        {
+          "title": "王牌小食拼",
+          "coupon_product": "王牌小食拼",
+          "coupon_product_code": "9900016371",
+          "validity": "2026-10-12 10:30:00-2026-10-16 23:59:59",
+          "addon_original_cents": 2200,
+          "addon_pay_cents": 1590,
+          "addon_saved_cents": 610,
+          "total_original_cents": 6900,
+          "total_with_addon_cents": 5580,
+          "total_discount_cents": 1320
+        }
+      ],
+      "best_addon": {
+        "title": "中薯条买一送一",
+        "coupon_product": "中薯条买一送一",
+        "coupon_product_code": "9900012387",
+        "validity": "2026-10-12 10:30:00-2026-10-16 23:59:59",
+        "addon_original_cents": 2700,
+        "addon_pay_cents": 1350,
+        "addon_saved_cents": 1350,
+        "total_original_cents": 7400,
+        "total_with_addon_cents": 5340,
+        "total_discount_cents": 2060
+      }
+    }
+  },
+  "now_minutes": 819
+}
